@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+
+#Task Tracker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+###### Overall view
+•Created a web app that will manage tasks that user can add or remove
+
+•Users can highlight desired tasks and add or remove according to needs
+
+•Worked with REST API to save any tasks add/removedStoreFront
+
+###### Demo
+![enter image description here](https://i.imgur.com/hGc6vVT.png)
+![enter image description here](https://i.imgur.com/qHfF4op.png)
+![enter image description here](https://i.imgur.com/5PPSwSv.png)
 
 ## Available Scripts
 
